@@ -1,0 +1,1 @@
+This is a mirror of https://mirrors.edge.kernel.org/pub/linux/kernel/Historic/
